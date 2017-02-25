@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-24T10:39:44.645Z</updated>
+  <updated>2017-02-25T02:46:40.667Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,20 +16,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>马斌斌</title>
-    <link href="http://yoursite.com/2017/02/24/%E9%A9%AC%E6%96%8C%E6%96%8C/"/>
-    <id>http://yoursite.com/2017/02/24/马斌斌/</id>
-    <published>2017-02-24T10:38:56.000Z</published>
-    <updated>2017-02-24T10:39:44.645Z</updated>
+    <title>开站新篇章</title>
+    <link href="http://yoursite.com/2017/02/25/%E9%A9%AC%E6%96%8C%E6%96%8C/"/>
+    <id>http://yoursite.com/2017/02/25/马斌斌/</id>
+    <published>2017-02-25T02:36:00.000Z</published>
+    <updated>2017-02-25T02:46:40.667Z</updated>
     
-    <content type="html"><![CDATA[<p>###觉得世界冠军各个击破几个破国际频道房间###</p>
-<p>#法国等国的法国队</p>
+    <content type="html"><![CDATA[<pre><code>终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，
+</code></pre><p>放一点摄影作品，最好能像QQ空间一样播放背景最好了。技术博客，和这些放一起似乎不太适合。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;###觉得世界冠军各个击破几个破国际频道房间###&lt;/p&gt;
-&lt;p&gt;#法国等国的法国队&lt;/p&gt;
+      &lt;pre&gt;&lt;code&gt;终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;放一点摄影作品，最好能像QQ空间一样播放背景最好了。技术博客，和这些放一起似乎不太适合。&lt;/p&gt;
 
     
     </summary>
