@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mr.Bean 的小站</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://weibo.com/u/5114778479/atom.xml" rel="self"/>
   
-  <link href="https://fbi-007.github.io/"/>
+  <link href="https://github.com/FBI-007/"/>
   <updated>2017-02-25T02:46:40.667Z</updated>
-  <id>https://fbi-007.github.io/</id>
+  <id>https://github.com/FBI-007/</id>
   
   <author>
     <name>Mr.Bean</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>开站新篇章</title>
-    <link href="https://fbi-007.github.io/2017/02/25/%E9%A9%AC%E6%96%8C%E6%96%8C/"/>
-    <id>https://fbi-007.github.io/2017/02/25/马斌斌/</id>
+    <link href="https://github.com/FBI-007/2017/02/25/%E9%A9%AC%E6%96%8C%E6%96%8C/"/>
+    <id>https://github.com/FBI-007/2017/02/25/马斌斌/</id>
     <published>2017-02-25T02:36:00.000Z</published>
     <updated>2017-02-25T02:46:40.667Z</updated>
     
