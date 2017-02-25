@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mr.Bean 的小站</title>
-  
+  <subtitle>如果漂泊是成长必经的路牌</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fbi-007.github.io/"/>
