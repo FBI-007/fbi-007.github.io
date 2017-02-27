@@ -4,9 +4,9 @@
   <subtitle>如果漂泊是成长必经的路牌</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://fbi-007.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2017-02-25T09:21:22.825Z</updated>
-  <id>https://fbi-007.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Mr.Bean</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>开站首篇</title>
-    <link href="https://fbi-007.github.io/2017/02/25/%E9%A6%96%E7%AF%87/"/>
-    <id>https://fbi-007.github.io/2017/02/25/首篇/</id>
+    <link href="http://yoursite.com/2017/02/25/%E9%A6%96%E7%AF%87/"/>
+    <id>http://yoursite.com/2017/02/25/首篇/</id>
     <published>2017-02-25T02:36:00.000Z</published>
     <updated>2017-02-25T09:21:22.825Z</updated>
     
