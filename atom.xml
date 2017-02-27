@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-27T03:08:23.790Z</updated>
+  <updated>2017-02-27T03:20:16.757Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,17 @@
     <link href="http://yoursite.com/2017/02/25/%E9%A6%96%E7%AF%87/"/>
     <id>http://yoursite.com/2017/02/25/首篇/</id>
     <published>2017-02-25T02:36:00.000Z</published>
-    <updated>2017-02-27T03:08:23.790Z</updated>
+    <updated>2017-02-27T03:20:16.757Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，"><a href="#终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，" class="headerlink" title="终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，"></a>终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，</h3><p>放一点摄影作品，最好能像QQ空间一样播放背景最好了。技术博客，和这些放一起似乎不太适合。</p>
+    <content type="html"><![CDATA[<pre><code>终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，
+</code></pre><p>放一点摄影作品，最好能像QQ空间一样播放背景最好了。技术博客，和这些放一起似乎不太适合。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，&quot;&gt;&lt;a href=&quot;#终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，&quot; class=&quot;headerlink&quot; title=&quot;终于有了自己的网站，
+      &lt;pre&gt;&lt;code&gt;终于有了自己的网站，虽然内容外观还不齐全，这几天慢慢补上。到时候写一些自己的随笔，
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;放一点摄影作品，最好能像QQ空间一样播放背景最好了。技术博客，和这些放一起似乎不太适合。&lt;/p&gt;
+
     
     </summary>
     
