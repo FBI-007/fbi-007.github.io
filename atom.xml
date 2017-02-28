@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-28T09:39:43.709Z</updated>
+  <updated>2017-02-28T09:48:11.690Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开发</title>
+    <link href="http://yoursite.com/2017/02/28/%E6%84%9F%E6%82%9F/"/>
+    <id>http://yoursite.com/2017/02/28/感悟/</id>
+    <published>2017-02-28T09:47:26.000Z</published>
+    <updated>2017-02-28T09:48:11.690Z</updated>
+    
+    <content type="html"><![CDATA[<p>C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;C++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    
+    </summary>
+    
+    
+      <category term="C++开发" scheme="http://yoursite.com/tags/C-%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
   
   <entry>
     <title>开站首篇</title>
